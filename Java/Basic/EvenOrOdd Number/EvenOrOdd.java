@@ -12,6 +12,7 @@ public class EvenOrOdd {
         }else{
             System.out.println(n + " is Odd Number.");
         }
+        scanner.close();
     }
     
 }
